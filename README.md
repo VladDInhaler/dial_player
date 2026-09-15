@@ -1,7 +1,7 @@
 # dial_player
 Plays videos on input from a microcontroller.
 
-It was used as part of a project, where the user could make videos play by dialing numbers on an old rotary phone.
+It was used as part of a project, where the user could play videos on a screen by dialing numbers on an old rotary phone.
 
 It was intended to run on a Raspberry Pi 3 Model b+ with Debian Bookworm and a Desktop Environment.
 
