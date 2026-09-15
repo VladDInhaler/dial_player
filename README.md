@@ -7,11 +7,11 @@ It was intended to run on a Raspberry Pi 3 Model b+ with Debian Bookworm and a D
 
 # how to use it?
 
--decide for one video playing as the "screen saver" it will play in a loop until there is input. rename this video to default.
--rename the other videos after the input that should start them.
--move all those videos into the directory that is configured in the 
--start the input device that is configured
--start the program
+- decide for one video playing as the "screen saver" it will play in a loop until there is input. rename this video to default.
+- rename the other videos after the input that should start them.
+- move all those videos into the directory that is configured in the 
+- start the input device that is configured
+- start the program
 
 
 # how does it work?
