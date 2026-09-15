@@ -1,5 +1,5 @@
 # dial_player
-Plays videos on input from a microcontroller.
+Plays videos on microcontroller input.
 
 It was used as part of a project, where the user could play videos on a screen by dialing numbers on an old rotary phone.
 
