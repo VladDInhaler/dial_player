@@ -160,10 +160,4 @@ int main() {
 }
 
 
-das projekt ist video player cpp
-das arduino programm ist untitled.
-
-der quellcode muss noch auf github gespeichert werden.
-
-
 

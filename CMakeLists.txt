@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.25)
-project(video_player_cpp)
+project(dial_player)
 
-set(CMAKE_CXX_STANDARD 26)
+set(CMAKE_CXX_STANDARD 23)
 
 add_executable(video_player_cpp main.cpp
         functions/start_programs.hpp
